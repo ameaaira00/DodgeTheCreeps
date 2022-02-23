@@ -59,3 +59,7 @@ func start(pos): #reset the player when starting a new game
 	position = pos
 	show()
 	$CollisionShape2D.disabled = false
+
+
+
+
