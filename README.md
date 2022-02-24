@@ -11,6 +11,8 @@ The objectives are the following:
    * Count the score.
    * And more.
 
+_Project still not exported to Android. To play the game. Import the Project file in Godot Engine (https://godotengine.org/) and play the project file._
+
 # Project Sneakpeak
 ## Title
 ![image](https://user-images.githubusercontent.com/65065686/155467576-39f11cc4-75b0-4b90-b419-ddbb824e2b69.png)
@@ -21,4 +23,4 @@ The objectives are the following:
 ## Game Over
 ![image](https://user-images.githubusercontent.com/65065686/155467705-0b9c1115-f61e-442a-876a-39f65a815b58.png)
 
-_Project still not exported to Android_
+
